@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "jyyoung"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "백진영"
+name                     : "jyyoung"
 description              : "jyyoung blog"
 url                      : "https://jyyoung.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "백진영"
+  name             : "Back JinYoung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "github."
   location         : "Gwangju, Republic of Korea"
